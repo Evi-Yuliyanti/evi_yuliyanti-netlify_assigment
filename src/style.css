@@ -1,0 +1,24 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    font-family: 'Lora', serif;
+}
+header {
+background-color:#251D3A;
+}
+
+.hero {
+    background-color:#251D3A;
+}
+
+.kursus {
+    background-color:#251D3A;
+}
+.contact {
+    background-color:#04293A;
+}
+footer {
+    background-color:#0F3460;
+}
